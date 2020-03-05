@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CertamenCalculadora</string>
+    <string name="Num1">Num1</string>
+    <string name="Num2">Num2</string>
+    <string name="Num3">?</string>
+    <string name="sumar">+</string>
+    <string name="restar">-</string>
+    <string name="borrar">C</string>
+    <string name="mult">X</string>
+    <string name="dividir">/</string>
+    <string name="par">¿RESULTADO ES PAR?</string>
+    <string name="primo">¿RESULTADO ES \n PRIMO?</string>
+    <string name="resultado">RESULTADO</string>
+    <string name="fin">00</string>
+    <string name="parprimo">---</string>
+    <string name="generar">Generar Números</string>
+</resources>

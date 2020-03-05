@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="GenerarNumeros">#F57B51</color>
+    <color name="Background">#CDC6AE</color>
+    <color name="Blanco">#FFFFFF</color>
+    <color name="sumar">#EE6352</color>
+    <color name="restar">#59CD90</color>
+    <color name="borrar">#3FA7DE</color>
+    <color name="mult">#FAC05E</color>
+    <color name="dividir">#F79D84</color>
+    <color name="par">#85CB33</color>
+    <color name="primo">#725AC1</color>
+    <color name="resultado">#D81E5B</color>
+    <color name="fimal">#58355E</color>
+</resources>
